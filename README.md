@@ -1,4 +1,4 @@
-# binary_to_decimal
+# Binary to Decimal
 Working Code for ECE243 Lab 1 (Winter 2023) at the University of Toronto. All code is written and debugged in ARM Assembly. To simulate the code, upload the code and compile using the ARMv7 [CPUlator online tool](https://cpulator.01xz.net/?sys=arm-de1soc "CPUlator"). See the included lab handout for more information.
 
 ## Part 3
